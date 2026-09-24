@@ -80,3 +80,4 @@ fn query_help(query: &str, askedAlready: &mut bool, huh: &mut bool) {
         println!("Huh?");
     }
 }
+
